@@ -1,0 +1,13 @@
+{
+  "name": "practica-formulario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch --style=compressed --cache-location css/cache css/styles.scss:css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
